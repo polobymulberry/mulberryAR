@@ -1,0 +1,16 @@
+# Blender v2.60 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib fakeshadow.mtl
+o Mesh_House
+v -1.000000 0.000000 1.000000
+v 1.000000 0.000000 1.000000
+v 1.000000 0.000000 -1.000000
+v -1.000000 0.000000 -1.000000
+
+vt 0.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+vt 1.000000 0.000000
+usemtl blinn1SG_fakeshadow.png
+s off
+f 1/1 2/2 3/3 4/4

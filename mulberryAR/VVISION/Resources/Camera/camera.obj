@@ -1,0 +1,15 @@
+# Blender v2.60 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib camera.mtl
+o Mesh_Camera
+v 1.0 1.0 -99.9
+v -1.0 1.0 -99.9
+v -1.0 -1.0 -99.9
+v 1.0 -1.0 -99.9
+vt 1.0 1.0
+vt 0.0 1.0
+vt 0.0 0.0
+vt 1.0 0.0
+usemtl blinn1SG_camera_diffuse.png
+s off
+f 1/1 2/2 3/3 4/4

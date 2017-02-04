@@ -1,0 +1,12 @@
+PODS:
+  - eigen (3.2.10)
+
+DEPENDENCIES:
+  - eigen (~> 3.2.10)
+
+SPEC CHECKSUMS:
+  eigen: e2d5ffb7be5a884d4608ebe35a97b6f65e13ed8b
+
+PODFILE CHECKSUM: c28006031af835057ab0ad403752d134a2a21fe1
+
+COCOAPODS: 1.2.0.beta.3
